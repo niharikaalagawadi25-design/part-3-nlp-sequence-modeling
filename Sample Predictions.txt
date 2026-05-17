@@ -1,0 +1,11 @@
+Sample Predictions:
+
+Message:
+The issue was resolved quickly thank you
+Predicted Sentiment:
+neutral
+
+Message:
+I am extremely unhappy with the support
+...
+Transformers power modern Generative AI models such as GPT, BERT, and LLaMA.
